@@ -1,5 +1,7 @@
 # E2B Computer Vision Template
 
+**Author:** Bhagya Amarasinghe
+
 A containerized environment for computer use capabilities with Claude, packaged as an E2B template. This is derived from Anthropic's computer use demo but optimized for E2B deployment with automated CI/CD pipelines.
 
 ## Overview
