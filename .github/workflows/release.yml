@@ -5,6 +5,11 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
 env:
   PROJECT_ID: jovial-branch-470306-n9
   GAR_LOCATION: us-east4
